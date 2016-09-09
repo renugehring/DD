@@ -17,7 +17,7 @@ knit        : slidify::knit2slides
 2. Kids' college
 3. Nice vacations
 
---- .class #id 
+---
 
 ## But how I am going to save all the money I need?
 1.  It is simple.
@@ -28,6 +28,7 @@ knit        : slidify::knit2slides
 
 -----
 ## Watch your savings grow
+Use the app: https://renugehring.shinyapps.io/myFirstApp/
 
 1.  Enter the amount of savings every year.
 2.  Select an interest rate between 3 and 9 percent.  
